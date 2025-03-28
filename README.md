@@ -1,6 +1,6 @@
 # HRoS – Human Resource Operating System
 
-![HRoS Logo](https://hros.rccmaldives.com/assets/logo.png)
+![HRoS Logo](https://hros.rccmaldives.com/assets/logo.png](https://hros.rccmaldives.com/assets/images/logos/dark-logo.svg)
 
 > An all-in-one Human Resource Management System for employee management, leave tracking, document handling, recruitment, and internal communication – developed with Flutter, PHP, MySQL, and Tailwind CSS.
 
