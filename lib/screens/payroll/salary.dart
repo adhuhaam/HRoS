@@ -1,0 +1,1 @@
+// salary.dart - placeholder for payroll
